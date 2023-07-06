@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-// type annotation - function to add two strings
+"""
+basic annotation - function to add two strings
+"""
 
 
 def concat(str1: str; str2: str) -> str:
