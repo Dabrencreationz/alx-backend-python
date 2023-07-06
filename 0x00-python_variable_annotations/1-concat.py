@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 """
-basic annotation - function to add two strings
+Basic annotations - add
 """
 
 
-def concat(str1: str; str2: str) -> str:
+def concat(str1: str, str2: str) -> str:
+    """
+    function to concat two strings
+    """
     return str1 + str2
